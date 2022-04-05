@@ -188,6 +188,9 @@ section {
 
 .trainers {
     text-align: center;
+}
+
+.trainer {
     width: 900px;
     margin: 0 auto 30px auto;
     background: #024e76;
